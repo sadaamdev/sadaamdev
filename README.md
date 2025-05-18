@@ -40,7 +40,7 @@ Passionate about user experience, performance, and pixel-perfect design.
 </p>
 
 <p>
-  🔔 Don’t forget to <a href="https://www.youtube.com/@SkillKaabe">subscribe to SkillKaabe</a> for more coding content!
+  🔔 Don’t forget to <a href="https://www.youtube.com/channel/UCeN7P1zBmELVAIgOkbejBDg?sub_confirmation=1">subscribe to SkillKaabe</a> for more coding content!
 </p>
 
 ---
