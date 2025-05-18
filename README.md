@@ -39,6 +39,27 @@ Passionate about user experience, performance, and pixel-perfect design.
   <a href="https://youtu.be/_eeq4iVtMxo"><img src="https://img.youtube.com/vi/_eeq4iVtMxo/hqdefault.jpg" width="220" alt="Video 3" /></a>
 </p>
 
+---
+
+## 🎨 HTML & CSS Tutorial Playlists
+
+### 📘 Playlist 1: Learn  CSS Basics  
+[![Watch Playlist 1](https://img.youtube.com/vi/vG7K4WgsoEQ/hqdefault.jpg)](https://www.youtube.com/playlist?list=PLEpG1F26-HSF3E5dQB9-5842pzUlNEWIt)  
+🧰 _Learn the structure of Css and Build Lyouts
+
+▶️ [Watch Full Playlist](https://www.youtube.com/playlist?list=PLEpG1F26-HSF3E5dQB9-5842pzUlNEWIt)
+
+---
+
+### 📘 Playlist 2: _Learn the structure of HTML 
+[![Watch Playlist 2](https://img.youtube.com/vi/baeouM34jes/hqdefault.jpg)](https://www.youtube.com/playlist?list=PLEpG1F26-HSExH5k06FN3Nod4Ai2El8iX)  
+🛠️ _Practice HTML & CSS through real-world projects and component building._
+
+▶️ [Watch Full Playlist](https://www.youtube.com/playlist?list=PLEpG1F26-HSExH5k06FN3Nod4Ai2El8iX)
+
+---
+
+
 <p>
   🔔 Don’t forget to <a href="https://www.youtube.com/channel/UCeN7P1zBmELVAIgOkbejBDg?sub_confirmation=1">subscribe to SkillKaabe</a> for more coding content!
 </p>
